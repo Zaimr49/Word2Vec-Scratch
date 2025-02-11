@@ -50,25 +50,7 @@ This project explores **Word Embeddings**, a key innovation in **Natural Languag
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/word-embeddings.git
-cd word-embeddings
-pip install -r requirements.txt
-```
-
-## Usage
-### Run Word2Vec Training
-```bash
-python src/word2vec.py
-```
-
-### Train Neural Network-Based Embeddings
-```bash
-python src/neural_embeddings.py
-```
-
-### Analyze Pretrained Embeddings
-```bash
-jupyter notebook notebooks/pretrained_glove.ipynb
+git clone https://github.com/Zaimr49/word-embeddings.git
 ```
 
 ## Dependencies
@@ -82,8 +64,6 @@ jupyter notebook notebooks/pretrained_glove.ipynb
 - Gensim
 - Jupyter Notebook
 
-## Contributors
-- **[Your Name]** - [GitHub Profile](https://github.com/yourusername)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
